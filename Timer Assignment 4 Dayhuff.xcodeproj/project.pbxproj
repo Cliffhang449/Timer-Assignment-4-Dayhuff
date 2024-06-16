@@ -16,6 +16,7 @@
 		D85EEFE12C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85EEFE02C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffTests.swift */; };
 		D85EEFEB2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85EEFEA2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITests.swift */; };
 		D85EEFED2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85EEFEC2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITestsLaunchTests.swift */; };
+		D85EEFFC2C1F5F1300AD5F12 /* alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D85EEFFB2C1F5F1300AD5F12 /* alarm.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D85EEFE62C1E4C3700AD5F12 /* Timer Assignment 4 DayhuffUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Timer Assignment 4 DayhuffUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D85EEFEA2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer_Assignment_4_DayhuffUITests.swift; sourceTree = "<group>"; };
 		D85EEFEC2C1E4C3700AD5F12 /* Timer_Assignment_4_DayhuffUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer_Assignment_4_DayhuffUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D85EEFFB2C1F5F1300AD5F12 /* alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm.mp3; path = ../../../Downloads/alarm.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D85EEFCD2C1E4C3200AD5F12 /* ViewController.swift */,
 				D85EEFCF2C1E4C3200AD5F12 /* Main.storyboard */,
 				D85EEFD22C1E4C3600AD5F12 /* Assets.xcassets */,
+				D85EEFFB2C1F5F1300AD5F12 /* alarm.mp3 */,
 				D85EEFD42C1E4C3600AD5F12 /* LaunchScreen.storyboard */,
 				D85EEFD72C1E4C3600AD5F12 /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D85EEFFC2C1F5F1300AD5F12 /* alarm.mp3 in Resources */,
 				D85EEFD62C1E4C3600AD5F12 /* LaunchScreen.storyboard in Resources */,
 				D85EEFD32C1E4C3600AD5F12 /* Assets.xcassets in Resources */,
 				D85EEFD12C1E4C3200AD5F12 /* Main.storyboard in Resources */,
